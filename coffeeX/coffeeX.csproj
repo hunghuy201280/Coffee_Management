@@ -10,12 +10,4 @@
     <PackageReference Include="MaterialDesignThemes" Version="4.1.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="Repository\" />
-    <Folder Include="Resource\" />
-    <Folder Include="ViewModel\" />
-    <Folder Include="View\" />
-  </ItemGroup>
-
 </Project>
